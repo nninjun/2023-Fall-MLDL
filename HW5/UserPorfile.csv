@@ -1,0 +1,11 @@
+Unique ID,Status,Year,Department,# Credits,GPA,IQ,Study Hour,MBTI
+1,Grad,3,Physics,12,3.8,120,25,INTJ
+2,Undergrad,2,CS,15,3.5,115,20,INTP
+3,Grad,4,Math,3,4.0,130,28,ENTJ
+4,Undergrad,3,CS,18,2.9,110,18,ESFP
+5,Grad,3,Biology,9,3.7,125,23,ISFJ
+6,Grad,2,Math,10,3.6,118,22,ENFP
+7,Undergrad,1,Chemistry,17,3.3,112,20,ISTJ
+8,Undergrad,4,Physics,15,3.4,113,19,ESTP
+9,Grad,6,Biology,0,3.9,121,27,INFJ
+10,Undergrad,2,Math,18,2.8,109,17,ENTP
